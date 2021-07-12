@@ -2,7 +2,7 @@
 
 [![Website](https://cdn3.iconfinder.com/data/icons/miscellaneous-120-mix/168/online_internet_visit_browser_webpage_world_globe_digital_cursor-256.png)](https://arifulstackdev.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ariful_1122)
-![Twitter Follow](https://img.shields.io/twitter/follow/ariful_1122?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)
 
 ## I'm a Full Stack Web Developer!!
 
