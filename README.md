@@ -1,6 +1,6 @@
 ### Hi there, I'm Ariful - Islam [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)
+[![Website](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)]
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ariful_1122)
 ![Twitter Follow](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)
 
