@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arifulstackdev.vercel.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)](https://twitter.com/ariful_1122)
-![Twitter Follow](https://img.shields.io/twitter/follow/ariful_1122?color=%235bf361&style=for-the-badge)
+
 
 ## I'm a Full Stack Web Developer!!
 
