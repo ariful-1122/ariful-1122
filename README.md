@@ -8,7 +8,7 @@
 - 👩‍💻 I love to code long time
 - 🌱 I’m learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and make jokes.
 
 ### Connect with me:
