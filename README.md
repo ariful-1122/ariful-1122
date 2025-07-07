@@ -51,13 +51,13 @@
 [<img align="left" alt="TypeScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />][website]
 [<img align="left" alt="HTML" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />][website]
 [<img align="left" alt="CSS" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />][website]
+[<img align="left" alt="Tailwind CSS" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />][website]
+[<img align="left" alt="ShadCN UI" width="32px" height="32px" src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon.ico" />][website]
 [<img align="left" alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="PostgreSQL" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />][website]
-[<img align="left" alt="MongoDB" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="MongoDB" width="32px" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />][website]
 [<img align="left" alt="Git" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />][website]
-[<img align="left" alt="Tailwind CSS" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />][website]
-[<img align="left" alt="VS Code" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Terminal" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />][website]
 
 <br /><br /><br />
